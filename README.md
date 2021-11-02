@@ -1,4 +1,4 @@
-## Raiffeisen hackathon for DS
+## Raiffeisen Hackathon for DS
 ### Dataset 
 The dataset is available via [link](https://drive.google.com/drive/folders/1vPOy8de3iRw70TKu9BRycdJloyKye_v4?usp=sharing)
 ### Preprocessing 
